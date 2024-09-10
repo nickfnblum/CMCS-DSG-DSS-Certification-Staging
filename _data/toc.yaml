@@ -1,7 +1,25 @@
 toc:
   - title: Home
     link: /
-  - section: MES Business Areas
+  - section: SMC Process Overview
+    subdir: SMC Process
+    items:
+      - title: Overview
+      - title: Planning
+      - title: Development
+      - title: Production
+  - title: Outcomes + the Certification Process
+    link: /certification-process
+  - title: Writing a Good Outcome Statement
+    link: /writing-outcome-statements
+  - title: Using the Intake Form
+    link: /Intake Form 
+  - section: Conditions for Enhanced Funding (CEF)
+    subdir: Conditions for Enhanced Funding
+    items:
+      - title: CEFs
+      - title: CEF Tips
+  - section: MES Module Outcomes and Metrics
     subdir: Outcomes and Metrics
     items:
       # As long as these titles are the same as the corresponding filenames, the
@@ -20,12 +38,17 @@ toc:
       - title: Member Management
       - title: Pharmacy Benefit Management (PBM) & Point of Sale (POS)
       - title: Prescription Drug Monitoring Program (PDMP)
+      - title: Program Integrity
       - title: Provider Management
       - title: Third Party Liability (TPL)
-  - title: Outcomes + the certification process
-    link: /certification-process
-  - title: Writing a good outcome statement
-    link: /writing-outcome-statements
+  - title: Metrics and Ongoing Reporting
+    link: /Ongoing Reporting/
+  - title: Using Box
+    link: /Box/
+  - title: MITA
+    link: /MITA/
+  - title: Frequently Asked Questions
+    link: /FAQs/
   - title: Roadmap
     url: "https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/wiki/MES-Certification-Repo-Roadmap"
     external: true
